@@ -184,7 +184,7 @@ img {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-.list-benefist {
+.list-benefits {
     display: flex;
     gap: 24px;
 }
@@ -192,7 +192,7 @@ img {
     display: inline-block;
     width: calc((100% - 72px) / 4);
 }
-.icon-benefist {
+.icon-benefits {
     display: flex;
     align-items: center;
     justify-content: center;
